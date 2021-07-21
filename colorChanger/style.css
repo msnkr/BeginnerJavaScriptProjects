@@ -1,0 +1,12 @@
+.background {
+    background-color: white;
+}
+
+.button-container-div {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25%;
+}

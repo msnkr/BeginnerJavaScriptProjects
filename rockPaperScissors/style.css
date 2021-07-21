@@ -1,0 +1,11 @@
+.main, .mainTwo {
+    margin-top: 20%;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-family: 'STIX Two Math', serif;
+}
+
+.mainTwo {
+    margin-top: 1%;
+}

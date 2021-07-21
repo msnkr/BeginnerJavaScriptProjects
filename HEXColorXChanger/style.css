@@ -1,0 +1,21 @@
+.background {
+    color: white;
+}
+.button {
+    margin-top: 1%;
+    width: auto;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.text {
+    justify-content: center;
+    display: flex;
+    width: auto;
+    height: auto;
+    margin-top: 24%;
+    color: black;
+}
+

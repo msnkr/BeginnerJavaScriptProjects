@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+    margin-top: 20%;
+    padding: 2%;
+    border: cornflowerblue 2px solid;
+    height: 20%;
+    background-color: thistle;
+    font-family: 'STIX Two Math', serif;
+}
+#subtract, #reser, #add {
+    margin-left: 2%;
+    margin-right: 2%;
+}
