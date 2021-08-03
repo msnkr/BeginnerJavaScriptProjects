@@ -1,0 +1,23 @@
+#top {
+    text-align: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+#tasks {
+    text-align: center;
+    justify-content: center;
+}
+
+.tasks {
+    text-align: center;
+    font-family: cursive;
+}
+
+#items {
+    background-color: blanchedalmond;
+    color: grey;
+    list-style: none;
+    justify-content: center;
+}
+
